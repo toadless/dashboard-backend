@@ -1,6 +1,6 @@
 # Dashboard Backend
 
-[![](https://discordapp.com/api/guilds/925386927794958348/embed.png?style=banner2)](https://discord.gg/JtXmRKuGGp)
+[![](https://discordapp.com/api/guilds/954456505334263828/embed.png?style=banner2)](https://discord.gg/8Nkgxg25Xw)
 
 This is a simple discord-bot-dashboard-backend example with my own implementation of discord OAuth2 and JWTs.
 
