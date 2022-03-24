@@ -4,7 +4,8 @@
   "description": "A typescript discord bot dashboard backend server.",
   "main": "index.ts",
   "scripts": {
-    "dev": "nodemon index.ts"
+    "dev": "nodemon index.ts",
+    "start": "node ./build/index.js"
   },
   "keywords": [
     "discord",
